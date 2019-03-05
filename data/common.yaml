@@ -1,0 +1,5 @@
+---
+php::packages: ~
+php::config_owner: 'phpadm'
+php::config_group: 'php'
+php::config_dir_path: '/etc/php'

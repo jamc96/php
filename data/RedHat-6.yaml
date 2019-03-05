@@ -1,0 +1,10 @@
+---
+php::packages:
+  - 'php'
+  - 'php-devel'
+  - 'php-mysql'
+  - 'php-cli'
+  - 'php-pdo'
+  - 'php-gd'
+  - 'php-xml'
+  - 'php-common'
